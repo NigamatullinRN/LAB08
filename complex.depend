@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652163982 source:c:\lr\lab08\coding_style\mycomplex.cpp
+	<iostream>
+	<cmath>
+	"mycomplex.h"
+
+1652164040 c:\lr\lab08\coding_style\mycomplex.h
+	<iostream>
+
+1652162615 source:c:\lr\lab08\coding_style\testcmp.cpp
+	<iostream>
+	"mycomplex.h"
+
